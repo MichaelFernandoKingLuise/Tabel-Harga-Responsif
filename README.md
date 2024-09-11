@@ -1,1 +1,1 @@
-A responsive web-based pricing table developed with HTML and CSS, showcasing a clean design that incorporates icons and a custom stylesheet for adaptive styling across different devices
+A responsive web-based pricing table developed using HTML and CSS, featuring a clean design with icons and a custom stylesheet to ensure adaptive styling across various devices
